@@ -6,4 +6,4 @@ My motivation for this project was knowing that I'd improve on my HTML and CSS k
 
 ## Link
 
-Link to deployed application 
+[Link to deployed application](https://orlandozl.github.io/Accessibility-Friendly-Webpage/) 
