@@ -72,6 +72,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+    flex-direction: row;
 }
 
 .float-left {
@@ -129,11 +130,4 @@ p {
 
 .footer h2 {
     font-size: 20px;
-}
-
-@media screen and (max-width: 768px) {
-    nav, main, aside {
-        display: flex;
-        flex-wrap: wrap;
-    }
 }
